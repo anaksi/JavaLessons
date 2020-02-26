@@ -5,4 +5,4 @@ Lesson1/.gradle/
 Lesson1/build/
 Lesson1/gradlew*
 Lesson1/.idea/
-Lesson1/*.swp
+*.swp
