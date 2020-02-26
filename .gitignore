@@ -1,8 +1,8 @@
 #Lesson1
 
-Lesson1/gradle/
-Lesson1/.gradle/
-Lesson1/build/
-Lesson1/gradlew*
-Lesson1/.idea/
-.gitignore.swp
+gradle
+.gradle
+build
+gradlew *
+.idea
+*.swp
